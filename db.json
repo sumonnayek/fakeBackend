@@ -1,0 +1,13 @@
+{
+    'students': [
+        {
+            name: 'animesh ray'
+        },
+        {
+            name: 'sumon'
+        },
+        {
+            name: 'soma'
+        }
+    ]
+}
