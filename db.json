@@ -1,13 +1,13 @@
 {
     "students": [
         {
-            "name": 'animesh ray'
+            "name": "animesh ray"
         },
         {
-            "name": 'sumon'
+            "name": "sumon"
         },
         {
-            "name": 'soma'
+            "name": "soma"
         }
     ]
 }
