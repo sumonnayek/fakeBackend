@@ -1,13 +1,19 @@
 {
     "students": [
         {
-            "name": "animesh ray"
+            "name": "animesh ray",
+            "address": "pune",
+            "percentage": 77
         },
         {
-            "name": "sumon"
+            "name": "sumon",
+            "address": "Bangalore",
+            "percentage": 77
         },
         {
-            "name": "soma"
+            "name": "soma",
+            "address": "pune",
+            "percentage": 77
         }
     ]
 }
